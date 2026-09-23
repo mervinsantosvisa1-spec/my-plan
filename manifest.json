@@ -1,1 +1,16 @@
-{"name":"My Plan","short_name":"My Plan","start_url":"./","display":"standalone","background_color":"#050807","theme_color":"#07100c","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "My Plan",
+  "short_name": "My Plan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050807",
+  "theme_color": "#07100c",
+  "icons": [
+    {
+      "src": "baki-app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
